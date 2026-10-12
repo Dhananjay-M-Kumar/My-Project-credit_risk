@@ -1,0 +1,12 @@
+# Core Data Science & ML packages (Lightweight, CPU-friendly)
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# Gemini AI Agent SDK & Environment
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+
+# Streamlit Interactive Web Application
+streamlit>=1.30.0
